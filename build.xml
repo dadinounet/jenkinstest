@@ -11,7 +11,7 @@
     <property name="target" value="1.7"/>
     <property name="source" value="1.7"/>
     <path id="JUnit 4.libraryclasspath">
-        <pathelement location="${ECLIPSE_HOME}/plugins/org.junit_4.11.0.v201303080030/junit.jar"/>
+        <pathelement location="C:/Users/dadin/Documents/jenkinstest/lib/junit.jar"/>
         <pathelement location="${ECLIPSE_HOME}/plugins/org.hamcrest.core_1.3.0.v201303031735.jar"/>
     </path>
     <path id="10102015_TP04.classpath">
@@ -64,7 +64,7 @@
         <junit fork="yes" printsummary="withOutAndErr">
             <formatter type="xml"/>
             <test name="Test.tester" todir="${junit.output.dir}"/>
-            <classpath refid="lib/junit.jar"/>
+            <classpath refid="10102015_TP04.classpath"/>
         </junit>
     </target>
     <target name="junitreport">
