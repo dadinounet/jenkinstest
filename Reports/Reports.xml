@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="tester" project="10102015_TP04" tests="5" started="5" failures="0" errors="0" ignored="0">
+  <testsuite name="Test.tester" time="0.001">
+    <testcase name="testCalculPages" classname="Test.tester" time="0.0"/>
+    <testcase name="testLivre" classname="Test.tester" time="0.0"/>
+    <testcase name="testTitre" classname="Test.tester" time="0.0"/>
+    <testcase name="testNbrPages" classname="Test.tester" time="0.0"/>
+    <testcase name="testAuteur" classname="Test.tester" time="0.0"/>
+  </testsuite>
+</testrun>
