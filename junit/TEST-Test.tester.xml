@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="dadinou" name="Test.tester" skipped="0" tests="5" time="0.234" timestamp="2016-06-02T13:24:43">
+<testsuite errors="0" failures="0" hostname="dadinou" name="Test.tester" skipped="0" tests="5" time="0.299" timestamp="2016-06-02T13:25:41">
   <properties>
     <property name="file.encoding.pkg" value="sun.io" />
     <property name="env.PROMPT" value="$P$G" />
@@ -39,12 +39,12 @@
     <property name="file.encoding" value="Cp1252" />
     <property name="env.XNAGSShared" value="C:\Program Files (x86)\Common Files\Microsoft Shared\XNA\" />
     <property name="ant.project.default-target" value="build" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Test.tester skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\dadin\Documents\jenkinstest\junit\TEST-Test.tester.xml crashfile=C:\Users\dadin\Documents\jenkinstest\junitvmwatcher1555071705232550612.properties propsfile=C:\Users\dadin\Documents\jenkinstest\junit3211857343151876755.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner Test.tester skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\dadin\Documents\jenkinstest\junit\TEST-Test.tester.xml crashfile=C:\Users\dadin\Documents\jenkinstest\junitvmwatcher7452873677458858562.properties propsfile=C:\Users\dadin\Documents\jenkinstest\junit8602024609219966174.properties" />
     <property name="env.NUMBER_OF_PROCESSORS" value="4" />
     <property name="env.APPDATA" value="C:\Users\dadin\AppData\Roaming" />
     <property name="env.XNAGSv4" value="C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\" />
     <property name="ant.file" value="C:\Users\dadin\Documents\jenkinstest\build.xml" />
-    <property name="env.BUILD_TAG" value="jenkins-projet Jenkins Testunitaires-51" />
+    <property name="env.BUILD_TAG" value="jenkins-projet Jenkins Testunitaires-52" />
     <property name="java.io.tmpdir" value="C:\Users\dadin\AppData\Local\Temp\" />
     <property name="user.language" value="fr" />
     <property name="env.SystemDrive" value="C:" />
@@ -55,10 +55,10 @@
     <property name="env.JOB_NAME" value="projet Jenkins Testunitaires" />
     <property name="java.vm.info" value="mixed mode" />
     <property name="source" value="1.7" />
-    <property name="env.BUILD_DISPLAY_NAME" value="#51" />
+    <property name="env.BUILD_DISPLAY_NAME" value="#52" />
     <property name="sun.desktop" value="windows" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
-    <property name="env.BUILD_URL" value="http://localhost:9598/job/projet%20Jenkins%20Testunitaires/51/" />
+    <property name="env.BUILD_URL" value="http://localhost:9598/job/projet%20Jenkins%20Testunitaires/52/" />
     <property name="env.PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY" />
     <property name="env.LOGONSERVER" value="\\DADINOU" />
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
@@ -69,7 +69,7 @@
     <property name="env.VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\" />
     <property name="env.PROCESSOR_LEVEL" value="21" />
     <property name="env.windir" value="C:\windows" />
-    <property name="env.BUILD_NUMBER" value="51" />
+    <property name="env.BUILD_NUMBER" value="52" />
     <property name="env.CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files" />
     <property name="os.name" value="Windows 7" />
     <property name="java.specification.vendor" value="Oracle Corporation" />
@@ -87,7 +87,7 @@
     <property name="java.class.version" value="52.0" />
     <property name="ant.home" value="C:\Users\dadin\Desktop\apache-ant-1.9.6" />
     <property name="env.Path" value="C:\Progra~1\Java\jdk1.8.0_60/bin;C:\Progra~1\Java\jdk1.8.0_60/bin;C:\oraclexe\app\oracle\product\11.2.0\server\bin;;C:\Users\dadin\Desktop\Tomcat\apache-tomcat-8.0.28\bin;C:\Progra~1\Java\jdk1.8.0_60\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\AMD APP\bin\x86_64;C:\Program Files (x86)\AMD APP\bin\x86;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files (x86)\Skype\Phone\;C:\windows\system32\config\systemprofile\.dnx\bin;C:\Program Files\Microsoft DNX\Dnvm\;C:\Program Files\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\dadin\AppData\Roaming\npm;C:\Users\dadin\AppData\Local\Android\android-sdk\build-tools;C:\Users\dadin\AppData\Local\Android\android-sdk\tools;C:\Users\dadin\AppData\Local\Android\android-sdk\platform-tools;C:\Users\dadin\Desktop\Tomcat\apache-tomcat-8.0.28;C:\Progra~1\Java\jdk1.8.0_60\bin;C:\Progra~1\Java\jdk1.8.0_60\lib;C:\7-Zip;C:\Users\dadin\Desktop\blat3212\full;C:\Program Files (x86)\Maven\apache-maven-3.3.9\bin;C:\Python34" />
-    <property name="env.GIT_COMMIT" value="5a2a19b07ef9f12afdfa196bfc9a76474eae7bad" />
+    <property name="env.GIT_COMMIT" value="444f3f21cd37314907968aeebb223d5a5bbf70d9" />
     <property name="env.JENKINS_HOME" value="C:\Users\dadin\.jenkins" />
     <property name="env.HOMEDRIVE" value="C:" />
     <property name="env.windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log" />
@@ -115,7 +115,7 @@
     <property name="sun.cpu.endian" value="little" />
     <property name="env._USE_CLASSPATH" value="no" />
     <property name="env.ALLUSERSPROFILE" value="C:\ProgramData" />
-    <property name="env.GIT_PREVIOUS_COMMIT" value="81a139d19bdd2df97b4d8220d190acbf7d5a8ce0" />
+    <property name="env.GIT_PREVIOUS_COMMIT" value="5a2a19b07ef9f12afdfa196bfc9a76474eae7bad" />
     <property name="env.PROCESSOR_ARCHITECTURE" value="AMD64" />
     <property name="java.vm.version" value="25.60-b23" />
     <property name="java.class.path" value="C:\Users\dadin\Documents\jenkinstest\bin;C:\Users\dadin\Documents\jenkinstest\lib\junit.jar;C:\Users\dadin\Documents\jenkinstest\lib\org.hamcrest.core_1.3.0.v201303031735.jar;C:\Users\dadin\Desktop\apache-ant-1.9.6\lib\ant-launcher.jar;C:\Users\dadin\Desktop\apache-ant-1.9.6\lib\ant.jar;C:\Users\dadin\Desktop\apache-ant-1.9.6\lib\ant-junit.jar;C:\Users\dadin\Desktop\apache-ant-1.9.6\lib\ant-junit4.jar" />
@@ -125,7 +125,7 @@
     <property name="env.SESSIONNAME" value="Console" />
     <property name="sun.java.launcher" value="SUN_STANDARD" />
     <property name="env.CommonProgramFiles" value="C:\Program Files\Common Files" />
-    <property name="env.BUILD_ID" value="51" />
+    <property name="env.BUILD_ID" value="52" />
     <property name="ant.core.lib" value="C:\Users\dadin\Desktop\apache-ant-1.9.6\lib\ant.jar" />
     <property name="env.ProgramFiles" value="C:\Program Files" />
     <property name="java.vm.specification.vendor" value="Oracle Corporation" />
@@ -136,7 +136,7 @@
     <property name="sun.boot.class.path" value="C:\Progra~1\Java\jdk1.8.0_60\jre\lib\resources.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\lib\rt.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\lib\sunrsasign.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\lib\jsse.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\lib\jce.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\lib\charsets.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\lib\jfr.jar;C:\Progra~1\Java\jdk1.8.0_60\jre\classes" />
     <property name="env.ComSpec" value="C:\windows\system32\cmd.exe" />
     <property name="env.WORKSPACE" value="C:\Users\dadin\.jenkins\jobs\projet Jenkins Testunitaires\workspace" />
-    <property name="env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="81a139d19bdd2df97b4d8220d190acbf7d5a8ce0" />
+    <property name="env.GIT_PREVIOUS_SUCCESSFUL_COMMIT" value="5a2a19b07ef9f12afdfa196bfc9a76474eae7bad" />
     <property name="env.TEMP" value="C:\Users\dadin\AppData\Local\Temp" />
     <property name="ant.file.type.10102015_TP04" value="file" />
     <property name="env.VS110COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 11.0\Common7\Tools\" />
@@ -145,17 +145,17 @@
     <property name="env.EXECUTOR_NUMBER" value="0" />
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.PSModulePath" value="C:\windows\system32\WindowsPowerShell\v1.0\Modules\" />
-    <property name="env.HUDSON_COOKIE" value="48416c62-7c15-4b12-9d09-3d0a888b76f4" />
+    <property name="env.HUDSON_COOKIE" value="0bee4e5b-75ca-4786-af96-12a4b706cf0c" />
     <property name="env.CATALINA_HOME" value="C:\Users\dadin\Desktop\Tomcat\apache-tomcat-8.0.28" />
     <property name="java.specification.version" value="1.8" />
     <property name="sun.arch.data.model" value="64" />
     <property name="env.=ExitCode" value="00000082" />
   </properties>
-  <testcase classname="Test.tester" name="testCalculPages" time="0.004" />
+  <testcase classname="Test.tester" name="testCalculPages" time="0.002" />
   <testcase classname="Test.tester" name="testLivre" time="0.0" />
-  <testcase classname="Test.tester" name="testTitre" time="0.001" />
-  <testcase classname="Test.tester" name="testNbrPages" time="0.0" />
-  <testcase classname="Test.tester" name="testAuteur" time="0.0" />
+  <testcase classname="Test.tester" name="testTitre" time="0.0" />
+  <testcase classname="Test.tester" name="testNbrPages" time="0.001" />
+  <testcase classname="Test.tester" name="testAuteur" time="0.001" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
