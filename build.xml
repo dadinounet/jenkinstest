@@ -64,7 +64,7 @@
         <junit fork="yes" printsummary="withOutAndErr">
             <formatter type="xml"/>
             <test name="Test.tester" todir="${junit.output.dir}"/>
-            <classpath refid="10102015_TP04.classpath"/>
+            <classpath refid="lib/junit.jar"/>
         </junit>
     </target>
     <target name="junitreport">
